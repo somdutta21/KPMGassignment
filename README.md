@@ -57,7 +57,8 @@ Hints
 
 Solution:
 
-● I have assumed that the EC2 instance is already created OS assumed is Ubuntu
+● I have assumed that the EC2 instance is already created.
+  OS assumed is Ubuntu
 
 ● If the EC2 instance is not created then we can use the attached kpmg.yml file to create a cloud formation stack
 
