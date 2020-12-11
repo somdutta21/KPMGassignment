@@ -85,6 +85,9 @@ One can also get the metadata using the AWS cli
                 sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
                 aws configure 
                 aws ec2 describe-tags --filters "Name=resource-id,Values=`ec2metadata --instance-id`"
+                
+                Output:
+                
                 {
                 "Tags": [
                 {
