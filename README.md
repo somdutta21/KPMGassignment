@@ -45,6 +45,12 @@ Key points:
  
  The IAAC for a three tier architecture is attached in the file called problem statement1.json
  
+The template deploys a 3 Tier RHEL OS on Azure.
+
+The Solution includes
+      Web tier Servers, 
+      Application tier Servers  
+      Database Tier Servers 
   
 Problem Statement 2>
 
