@@ -42,7 +42,9 @@ Key points:
 ● Accessibility to the on prem resources: 
       
       ○ Point to Site VPN
-  
+ 
+ The IAAC for a three tier architecture is attached in the file called problem statement1.json
+ 
   
 Problem Statement 2>
 
