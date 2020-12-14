@@ -43,14 +43,15 @@ Key points:
       
       ○ Point to Site VPN
  
- The IAAC for a three tier architecture is attached in the file called problem statement1.json
+______________________________________________________________________________________________________________________________________________________________ 
+For the IAAC demonstration I have have imaginged a three tier VM based architecture. The file containing the code is called problemstatement1.json. 
  
-The template deploys a 3 Tier RHEL OS on Azure.
+The template deploys a 3 Tier VM based setup leveraging RHEL on Azure.
 
 The Solution includes
-      Web tier Servers, 
-      Application tier Servers  
-      Database Tier Servers 
+      ○ Web tier  
+      ○ Application tier   
+      ○ Database Tier 
   
 Problem Statement 2>
 
