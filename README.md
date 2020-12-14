@@ -44,7 +44,7 @@ Key points:
       ○ Point to Site VPN
  
 ______________________________________________________________________________________________________________________________________________________________ 
-For the IAAC demonstration I have have imaginged a three tier VM based architecture. The file containing the code is called problemstatement1.json. 
+For the IAAC demonstration I have have imaginged a three tier VM based architecture. The file containing the code is called problemstatement1-IAAC.json. 
  
 The template deploys a 3 Tier VM based setup leveraging RHEL on Azure.
 
