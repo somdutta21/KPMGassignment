@@ -48,7 +48,8 @@ For the IAAC demonstration I have have imaginged a three tier VM based architect
  
 The template deploys a 3 Tier VM based setup leveraging RHEL on Azure.
 
-The Solution includes
+The Solution includes:
+
       ○ Web tier  
       ○ Application tier   
       ○ Database Tier 
